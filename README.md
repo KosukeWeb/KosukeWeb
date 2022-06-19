@@ -1,7 +1,7 @@
 [![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/282514508969410561.png)](https://discord.com)
 <br/>
 <br />
-<img align="left" alt="KosukeWeb" src="https://github-readme-stats.vercel.app/api?username=Zitiiix&theme=dracula&show_icons=true&hide_border=true" />
+<img align="left" alt="KosukeWeb" src="https://github-readme-stats.vercel.app/api?username=KosukeWeb&theme=dracula&show_icons=true&hide_border=true" />
 
 <br />
 <br />
