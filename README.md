@@ -1,4 +1,4 @@
-<a href=""><img src="https://cdn.discordapp.com/attachments/972492254864355398/972531512459264080/banner_shellcats.png"  /></a>
+<a href=""><img src="https://discord.c99.nl/widget/theme-1/282514508969410561.png"  /></a>
 <br/>
 <br />
 <img align="left" alt="Zitiiix Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zitiiix&theme=dracula&show_icons=true&hide_border=true" />
