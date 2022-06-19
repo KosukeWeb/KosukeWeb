@@ -13,6 +13,8 @@
 
 ***
 
+## Languages :
+
 <div align="center">
  <a href="https://github.com/KosukeWeb">
   <img src="https://skillicons.dev/icons?i=lua,js,html,css&theme=light">
