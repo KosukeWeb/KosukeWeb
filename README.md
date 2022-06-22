@@ -26,7 +26,6 @@
 
 ## Profile Views :
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/KosukeWeb/count.svg" />
 </p>
 
